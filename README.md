@@ -37,6 +37,11 @@ Example
     // Now stream values into x and it starts the show
     
     [1,2,3,4] -> x
+    
+    // You can also inject into existing streams
+    
+    [3,3,4,4] -> z
+    
  ------------------------------------------------------------------------------------
 
 
